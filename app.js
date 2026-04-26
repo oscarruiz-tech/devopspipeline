@@ -36,7 +36,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="box">
-          <h1>🎉 THIS IS THIRD MAJOR UPGRADE CHANGE DONE ON AWS CODE PIPELINE DEVOPS CI/CD !!</h1>
+          <h1>🎉 THIS IS FIRST DEPLOYMENT ON AWS CODE PIPELINE DEVOPS CI/CD !!</h1>
           <p>Your new website has been successfully deployed.</p>
           <p class="highlight">Hosted on AWS Elastic Beanstalk 🚀</p>
           <p>CI powered by GitHub</p>
